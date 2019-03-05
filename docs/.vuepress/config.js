@@ -9,6 +9,6 @@ module.exports = {
     sidebar: markdownFiles,
     displayAllHeaders: false,
     lastUpdated: 'Last Updated'
-  },
-  base: '/BedardFamilyFavoriteRecipes/'
+  }//,
+  //base: '/BedardFamilyFavoriteRecipes/'
 }
