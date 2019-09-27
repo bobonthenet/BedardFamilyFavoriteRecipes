@@ -7,6 +7,8 @@ module.exports = {
   description: 'A curated list of recipe favorites from around the net.',
   themeConfig: {
     repo: 'bobonthenet/BedardFamilyFavoriteRecipes',
+    editLinks: true,
+    editLinkText: 'Help improve this page!',
     sidebar: markdownFiles,
     displayAllHeaders: false,
     lastUpdated: 'Last Updated'
