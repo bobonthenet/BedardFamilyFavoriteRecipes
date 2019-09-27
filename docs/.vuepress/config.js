@@ -9,6 +9,7 @@ module.exports = {
     repo: 'bobonthenet/BedardFamilyFavoriteRecipes',
     editLinks: true,
     editLinkText: 'Help improve this page!',
+    docsDir: 'docs',
     sidebar: markdownFiles,
     displayAllHeaders: false,
     lastUpdated: 'Last Updated'
