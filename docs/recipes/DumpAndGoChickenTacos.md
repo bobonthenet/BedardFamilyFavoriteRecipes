@@ -22,7 +22,7 @@ meta:
 1. Cube the chicken breasts into small pieces.
 2. Combine all the ingredients into a gallon zippered bag.
 3. Mix thoroughly.
-4. Divide 4 ways and freeze.
+4. Divide 3 ways and freeze. (How many meals you get out of this depends on the size of your family and how much they eat.)
 
 ## Making From Frozen
 1. Thaw in the fridge.
