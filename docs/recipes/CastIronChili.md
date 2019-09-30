@@ -11,26 +11,23 @@ meta:
 # Cast Iron Chili
 
 ::: tip
-This is my favorite chili recipe!
+This is my favorite chili recipe! I recently tried it in the slow cooker but it wasn't as good. I think maybe it just needed more time so I'll be trying again soon.
 :::
 
 ## Ingredients
 * 2 lbs ground bison, beef, or turkey
 * 4 cups cooked beans (kidney, pinto, red, etc.)
 * 1 medium onion, chopped
-* 4 stalks of celery, chopped
 * 3 cans (14.5 oz.) diced tomatoes
 * 2 tablespoons oil
 * 1 tablespoon flour (I used gluten free, but wheat flour is fine, too)
 * 1 tablespoon chili powder
 * 2 teaspoons granulated garlic
-* 1-2 tablespoons kosher salt, and to taste
 * 2 teaspoons black pepper
 * 2 bay leaves
 
 ## Procedure
-Heat your cast iron dutch oven on medium heat, and add 1 tablespoon of oil to the pan. When the oil is hot and shimmering, toss in your onions and celery.
-
+Heat your cast iron dutch oven on medium heat, and add 1 tablespoon of oil to the pan. When the oil is hot and shimmering, toss in your onions.
 
 Aromatics and ground bison
 One of the keys to developing flavor for chili is to pair sweetness with salt. The sweetness comes from caramelizing your onions before adding liquids. Because the onions and celery will continue to cook as the meat browns, I like to give them a 5-6 minute head start.
