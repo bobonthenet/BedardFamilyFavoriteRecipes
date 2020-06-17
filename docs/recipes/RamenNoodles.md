@@ -8,7 +8,7 @@ meta:
     content: recipe, Ramen, Japanese, Noodles, Chinese
 ---
 
-# Udon Noodles
+# Ramen Noodles
 
 ::: tip
 Remember to let your dough rest for at least an hour.
