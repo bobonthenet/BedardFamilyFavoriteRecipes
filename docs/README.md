@@ -12,6 +12,13 @@ meta:
 ---
 
 ## Introduction
+
+::: danger
+Due to a recent celiac diagnosis in my family I will be working to convert all the recipes so that they are gluten free. Those that cannot be converted will eventually be removed.
+:::
+
 This is a collection of our favorite recipes. Use the navbar to the left or the search at the top of the page to find a specific recipe. This is not a blog! Food blogs are annoying! All you will find here is just the recipes and maybe a few notes. I will also be adding new recipes from time to time and updating my favorites as I make tweaks to improve them.
+
+
 
 

@@ -10,6 +10,10 @@ meta:
 
 # Gnocchi
 
+::: danger
+This recipe is not gluten free. I am hoping to see how it goes using gluten free flour in the near future but in the meantime it should not be considered safe for GF.
+:::
+
 ::: tip
 Shaping the gnocchi takes a bit of practice at first but will quickly become easy once you get the hang of it and is a lot of fun! The dough should also be easy to work with and if it isn't you needed to boil your potatoes longer to soften them more.
 :::

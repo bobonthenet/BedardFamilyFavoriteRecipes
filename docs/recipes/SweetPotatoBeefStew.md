@@ -10,6 +10,10 @@ meta:
 
 # Sweet Potato Beef Stew
 
+::: danger
+This recipe is not gluten free but is a family favorite that I hope to convert in the near future. In the meantime it should not be considered safe for GF.
+:::
+
 ::: tip
 Try not to drink too much of the wine while cooking. Save some for the actual meal.
 :::
