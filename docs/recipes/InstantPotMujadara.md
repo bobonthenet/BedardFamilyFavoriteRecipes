@@ -49,4 +49,4 @@ Do not skip soaking the lentils! This recipe cooks the lentils and rice perfectl
 
 
 ### Original Recipe 
-http://stupideasypaleo.com/2013/02/11/crock-pot-puerco-pibil/
+https://thebellyrulesthemind.net/instant-pot-mujadara-recipe/
