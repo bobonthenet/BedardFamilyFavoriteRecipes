@@ -30,7 +30,3 @@ meta:
 4. In the crockpot, mix the juice of one orange with the cider vinegar. Add the annato / spice paste and stir until dissolved. Lay the pork into the liquid. Top with the tomato / onion mixture.
 5. Cook on low for 6-8 hours (longer is okay, too). Skim the excess fat off the top while it's still warm or refrigerate and the fat will solidify on top and can be scooped off.
 6. This was delicious with a couple of eggs for breakfast!
-
-
-### Original Recipe 
-http://stupideasypaleo.com/2013/02/11/crock-pot-puerco-pibil/
