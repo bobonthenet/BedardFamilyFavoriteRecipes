@@ -29,6 +29,3 @@ This chili is pretty good considering how easy and fast it is. I make it in my c
 3. When the meat is cooked through, add your salsa.
 4. Simmer for 5 minutes.
 5. Optional garnishes: red onion, cilantro, avocado, lime, cheese, sour cream, corn, peppers
-
-### Original Recipe
-https://www.ibreatheimhungry.com/10-minute-no-chop-low-carb-chili/

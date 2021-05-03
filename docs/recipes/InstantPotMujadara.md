@@ -46,7 +46,3 @@ Do not skip soaking the lentils! This recipe cooks the lentils and rice perfectl
 8. Lock down the lid and seal the vent.
 9. Pressure cook for 6 minutes and allow the pressure to naturally release.
 10. You're ready to serve! Garnish with the carmelized onions and parsley. Serve with yogurt or salad.
-
-
-### Original Recipe 
-https://thebellyrulesthemind.net/instant-pot-mujadara-recipe/

@@ -37,6 +37,3 @@ meta:
 7. If you would like a super thick consistency like greek yogurt, use a yogurt strainer and strain to your desired consistency after chilling.
 8. After refrigeration, you can mix it up and transfer to a separate container or containers. (we use small plastic Tupperware-like containers, but you can use jars, or one single large container, it's totally up to you)
 9. Enjoy plain (it's really good by itself), or with your choice of sweetener/fruit/granola/etc.
-
-### Original Recipe
-https://triedtestedandtrue.com/simple-instant-pot-2-ingredient-yogurt/

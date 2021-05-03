@@ -50,6 +50,4 @@ As mentioned above, you'd be silly not to serve this chili with some cast iron s
 
 Scrub your dutch oven clean with a non-abrasive cleaning pad and hot water. If you don't want to dirty your sponge, or if your sponge is full of soap, you can use a plastic mesh produce bag (like for  onions or citrus) and throw it away when you're finished.
 
-Once clean, dry your dutch oven with heat on the stovetop or in the oven (on 250 degrees F). Once it is dry, oil the dutch oven all over and let it cool. Cast iron should always be put away shiny with oil! 
-
-[Original Recipe](http://www.derekoncastiron.com/2010/10/recipe-dutch-oven-chili.html)
+Once clean, dry your dutch oven with heat on the stovetop or in the oven (on 250 degrees F). Once it is dry, oil the dutch oven all over and let it cool. Cast iron should always be put away shiny with oil!
