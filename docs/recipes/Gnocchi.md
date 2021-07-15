@@ -10,23 +10,20 @@ meta:
 
 # Gnocchi
 
-::: danger
-This recipe is not gluten free. I am hoping to see how it goes using gluten free flour in the near future but in the meantime it should not be considered safe for GF.
-:::
-
 ::: tip
-Shaping the gnocchi takes a bit of practice at first but will quickly become easy once you get the hang of it and is a lot of fun! The dough should also be easy to work with and if it isn't you needed to boil your potatoes longer to soften them more.
+Shaping the gnocchi takes a bit of practice at first but will quickly become easy once you get the hang of it and is a lot of fun! This gluten free dough is not as easy to work with as flour based gnocchi dough, but shouldn't be too difficult. If it is you likely didn't boil and soften your potatoes long enough.
 :::
 
 ## Ingredients
-* Egg
-* 2 potatoes
-* 2 cups all-purpose flour
+* 2 Eggs
+* 2 to 3 potatoes (1 cup mashed)
+* 2 cups GF flour
+* 1 tbsp Xanthan Gum
 
 ## Procedure
-1. Peel, dice, and boil your potatoes until they are tender, about 15 minutes.
+1. Peel, thinly slice, and boil your potatoes until they are tender, about 15 minutes.
 2. Use a potato masher to thoroughly mash the potatoes so that there are no lumps.
-3. Combine 1 cup of mashed potatoes, flour and egg in a large bowl. Knead until all ingredients are thoroughly incorporated and dough forms a ball.
+3. Combine 1 cup of mashed potatoes, flour, egg, and xanthan gum in a large bowl. Knead until all ingredients are thoroughly incorporated and dough forms a ball.
 4. Divide the ball of dough into 4ths and roll out into long snakes, cut into 1/2" pieces.
 5. Bring a large pot of salted water to a boil.
 6. While your water is coming to a boil, use a gnocchi board to shape the pieces of dough.

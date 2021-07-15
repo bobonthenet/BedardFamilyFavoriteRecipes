@@ -36,5 +36,3 @@ This is an amazing recipe! Sometimes I leave the red peppers out, I'm not sure w
 4. Bake for 60 minutes until internal temperature reaches 160 degrees F (a meat thermometer is one of my most used kitchen gadgets). Remove from oven and let rest for 30 minutes.
 5. Slice and serve with optional garnishes.
 6. Enjoy!
-
-[Original Recipe](http://www.cavegirlcuisine.com/recipes/taco-tuesday-meatloaf-2/)

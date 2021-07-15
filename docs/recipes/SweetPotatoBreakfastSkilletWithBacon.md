@@ -33,5 +33,3 @@ This one is a favorite amongst favorites! We typically have it for dinner as it 
 6. Stir in bacon pieces. Remove from heat.
 7. Make 6 wells in the potato and veggie mixture; break one egg into each well.
 8. Place skillet in the oven and bake for 9-14 minutes, or until the eggs are set. Serve immediately.
-
-[Original Recipe](https://www.ibreatheimhungry.com/10-minute-no-chop-low-carb-chili/)

@@ -38,5 +38,3 @@ This is truely one of the best beef stews I have ever made.
 5. Close the lid and steam valve on the instant pot.
 6. Cook on high pressure for 35 minutes, then allow the pressure to release naturally for 10 minutes before doing a quick release.
 7. Mix together the cornstarch and cold water in a small bowl and stir into the stew until thickened.
-
-[Original Recipe](https://thesaltymarshmallow.com/best-ever-instant-pot-beef-stew/)
