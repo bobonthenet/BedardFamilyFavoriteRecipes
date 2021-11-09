@@ -19,6 +19,8 @@ Due to a recent celiac diagnosis in my family I will be working to convert all t
 
 This is a collection of our favorite recipes. Use the navbar to the left or the search at the top of the page to find a specific recipe. This is not a blog! Food blogs are annoying! All you will find here is just the recipes and maybe a few notes. I will also be adding new recipes from time to time and updating my favorites as I make tweaks to improve them.
 
+Old recipes that have been removed can still be found in the archive folder on GitHub. This is the link on the upper right.
 
+<kofi/>
 
 
