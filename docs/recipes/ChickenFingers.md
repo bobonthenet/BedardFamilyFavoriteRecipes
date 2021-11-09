@@ -8,7 +8,7 @@ meta:
     content: recipe, chicken
 ---
 
-# Template
+# Chicken Fingers
 
 ::: tip
 Be extra careful to not let the oil get too hot! I highly recommend an IR thermometer.

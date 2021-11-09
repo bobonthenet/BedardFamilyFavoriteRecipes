@@ -10,7 +10,20 @@ module.exports = {
     editLinks: true,
     editLinkText: 'Help improve this page!',
     docsDir: 'docs',
-    sidebar: markdownFiles,
+    sidebar: [ 
+      {
+        title: 'Home',
+        path: '/'
+      },
+      {
+        title: 'Recipes',
+        children: [...markdownFiles]
+      },
+      {
+        title: 'About Me',
+        path: '/About'
+      }
+    ],
     displayAllHeaders: false,
     lastUpdated: 'Last Updated'
   }//,
