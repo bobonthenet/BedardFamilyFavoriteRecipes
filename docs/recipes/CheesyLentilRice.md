@@ -8,7 +8,7 @@ meta:
     content: recipe, rice, lentils, cheese, instant pot
 ---
 
-# Hamburger Helper Rice
+# Cheesy Lentil Rice
 **Super simple instant pot recipe, and even our preschooler loves it. If you enjoy spice, I highly recommend stirring in your favorite hot sauce or sprinkling on some red pepper flakes upon serving.
 
 ## Ingredients
